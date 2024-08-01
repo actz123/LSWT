@@ -9,3 +9,7 @@
 ### 项目架构
 
 整体前端和后端采用spring boot+vue前后端分离进行编写，在具体上使用python flask编写接口提供测试学习使用的接口
+
+<video width="320" height="240" controls>
+    <source src="blob:https://www.bilibili.com/68f718d6-e803-4ec6-ba2d-d9118aaf0a3b" type="video/mp4">
+</video>
